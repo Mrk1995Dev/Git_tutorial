@@ -7,3 +7,6 @@ Asp.NET Core Is Published By Microsoft Crporration
 
 Trust Wallet
 Atomic Wallet
+Coinomi Wallet
+MetaMask Wallet
+SafePal
