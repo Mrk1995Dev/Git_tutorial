@@ -10,3 +10,7 @@ Atomic Wallet
 Coinomi Wallet
 MetaMask Wallet
 SafePal
+--Adding Exchanges 
+Binance.com
+Coinlocally.com
+MEXC.com
